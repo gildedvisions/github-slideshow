@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+if ti sits it fits. wats cookin' good lookin'??
 Use the left arrow to go back!
